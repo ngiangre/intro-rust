@@ -6,3 +6,9 @@ Starting from the [W3Schools tutorial](https://www.w3schools.com/rust/rust_getst
 ```rust
 curl https://sh.rustup.rs -sSf | sh
 ```
+
+For an existing directory, I initiated the rust binariess with:
+
+```rust
+cargo init
+```
