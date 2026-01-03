@@ -12,3 +12,9 @@ For an existing directory, I initiated the rust binariess with:
 ```rust
 cargo init
 ```
+
+I can compile/run the function in `src/main.rs` with:
+
+```rust
+cargo run
+```
