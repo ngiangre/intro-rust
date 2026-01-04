@@ -18,3 +18,5 @@ I can compile/run the function in `src/main.rs` with:
 ```rust
 cargo run
 ```
+
+I then created the `helloextendr` folder by following the directions [at the extendr.rs website](https://extendr.rs). It's pretty neat you could call rust functions from R!
